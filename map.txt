@@ -1,0 +1,10 @@
+The purpose of this document is to track the pages of the Charleston website
+
+File Name:	URL:					Description:
+index.html	charleston.kiwi				The entry point to the website. Contains the links to each family members page
+andrew.html	charleston.kiwi/andrew.html		Andrew's main page
+jason.html	charleston.kiwi/jasonhtml		Jason's main page
+sean.html	charleston.kiwi/sean.html		Sean's main page
+katrina.html	charleston.kiwi/katrina.html		Katrina's main page
+wedding.html	charleston.kiwi/jason/wedding.html	Wedding page
+sitemap.html	charleston.kiwi/sitemap.html		Site Map
